@@ -27,7 +27,7 @@ Add below to package.json
 
 ### Install Nextjs and react
 
-    npm install next react react-dom
+    npm install next react react-dom axios
 
 Add `.gitignore`
 
