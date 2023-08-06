@@ -61,3 +61,10 @@ From the root folder
     touch \_app.js index.js
 
 Please check for the default code in the files in source code
+
+Run the below code to see the initial app
+
+    npm run dev
+
+
+    - ready started server on 0.0.0.0:3000, url: http://localhost:3000

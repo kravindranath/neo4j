@@ -1,0 +1,21 @@
+{
+  "name": "neo4j",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kravindranath/neo4j.git",
+  "author": "kr",
+  "license": "MIT",
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "dev": "next dev",
+    "telemetry": "next telemetry"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "next": "^13.4.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
